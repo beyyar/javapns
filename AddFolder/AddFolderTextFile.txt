@@ -1,0 +1,1 @@
+new This is AddFolderTextFile file.
